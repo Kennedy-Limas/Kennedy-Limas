@@ -4,13 +4,9 @@ Olá, seja bem-vindo (a) ao meu perfil! :v::sunglasses:
 Me chamo Kennedy, tenho 28 anos, moro em Barrinha-SP, sou estudante de Engenharia de Computação e desenvolvedor Front-End, especializando-me em Desenvolvimento Web.
 
 Tecnologias e ferramentas de trabalho: 
-- HTML
-- CSS
-- JavaScript
-- VUE.JS
+- HTML; - CSS; - JavaScript; - VUE.JS
 
-- SQL Database
-- MySQL
+- SQL Database; - MySQL
 
 - Node.js
 
