@@ -1,7 +1,7 @@
 Olá, seja bem-vindo (a) ao meu perfil! :v::sunglasses:
 -
 
-Me chamo Kennedy, tenho 28 anos, moro em Barrinha-SP, sou estudante de Engenharia de Computação e desenvolvedor Front-End, especializando-me em Desenvolvimento Web e Analista de Testes(QA).
+Me chamo Kennedy, tenho 28 anos, moro em Barrinha-SP, sou estudante de Engenharia de Computação e desenvolvedor Front-End, especializando-me em Desenvolvimento Web.
 
 :low_brightness: Curiosidades sobre mim...
 
